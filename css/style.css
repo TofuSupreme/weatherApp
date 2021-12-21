@@ -1,0 +1,30 @@
+/* TODO: Put your CSS code in here */
+
+.standard {
+  background-image: url('img/background.png');
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.snowy {
+background-image: url('img/snowy.jpg');
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+.foggy {
+  background-image: url('img/foggy.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.rainy {
+  background-image: url('img/rainy.png');
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.clear-sky {
+  background-image: url('img/clearSky.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+}
